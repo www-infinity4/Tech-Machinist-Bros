@@ -1,0 +1,1 @@
+{"name":"tech-machinist-bros-web","private":true,"type":"module","scripts":{"build":"node build.mjs"},"dependencies":{"react":"19.0.0","react-dom":"19.0.0","react-native-web":"0.21.2","esbuild":"0.28.0"}}
